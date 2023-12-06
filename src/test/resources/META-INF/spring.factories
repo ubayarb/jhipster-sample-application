@@ -1,0 +1,4 @@
+org.springframework.test.context.ContextCustomizerFactory = mn.xpro.archery.\
+    config.TestContainersSpringContextCustomizerFactory,mn.xpro.archery.config.\
+    SqlTestContainersSpringContextCustomizerFactory,mn.xpro.archery.config.\
+    KafkaTestContainersSpringContextCustomizerFactory
